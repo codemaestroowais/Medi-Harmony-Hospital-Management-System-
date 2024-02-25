@@ -1,0 +1,5 @@
+owais,murtaza,male,multan,pakistani,03091043809,3630241849447,owais,12,admin
+lai,ali,male,multan,paksitani,03091043876,3630241876554,ali,123,patient
+waleed,waleed,male,mutan,pakkstani,03091043654,3630241659887,waleed,1234,doctor
+fahad,fahad,male,multan,paksitani,04091043218,3730254176554,fahad,12345,equipments-manager
+hamdan,hamdan,male,rahimyarkhan,pakistani,03091043854,3630254328665,hamdan,123456,pharmacist

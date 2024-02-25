@@ -1,0 +1,3 @@
+hamdan,eye
+fahad,ear
+waleed,eye
